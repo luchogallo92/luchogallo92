@@ -6,11 +6,10 @@ Im luciano gallo, an industrial designer from Argentina with a focus on programm
 
 💼 Actual Job:
 -  I’m currently working in L.G.I. Eyewear Production 😎
-- 👯 I’m looking to collaborate on Frontend projects and robotics
+- 👯 I’m looking to collaborate on Frontend projects
 
 🖥️ Tech Knowledge:
 - 🌱 Javascript / Node.JS / Phyton 
-- ⚡ Fun fact: Dark Souls saga pro player 🎮
 
 🎓 My Studies:
 - Industrial Designer on University of Palermo
