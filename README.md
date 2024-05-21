@@ -4,12 +4,12 @@ Welcome! 🙌
 
 Im luciano gallo, an industrial designer from Argentina with a focus on programming technologies
 
-💼 Actual Job:
+💼 About me:
 -  I’m currently working in L.G.I. Eyewear Production 😎
 - 👯 I’m looking to collaborate on Frontend projects
 
-🖥️ Tech Knowledge:
-- 🌱 Javascript / Node.JS / Phyton 
+👨🏼‍💻 Tech Knowledge:
+- 🖥️ Javascript / Node.JS / Phyton 
 
 🎓 My Studies:
 - Industrial Designer on University of Palermo
